@@ -18,4 +18,4 @@ Dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using
 # Contents
 CodeBook.md - Content informations about functions, variables, datas and all changing was used to get and clean datas.
 run_analysis.R - Code to perform the analyses of datas that can be used in RStudio.
-averages_data.txt - Output of 5th step
+averages_data.txt - Output of 5th step.
